@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @isha1210
-- 👀 I’m interested in working and exploring stuff in VLSI
-- 🌱 I’m currently learning skills required for a physical design engineer
-- 💞️ I’m looking for summer internships in the USA ...
+- I am an electrical engineer, grad fom Purdue. 
 - 📫 You can reach me on my email - 98ishagupta@gmail.com
 
 <!---
