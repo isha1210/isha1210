@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isha1210
 - Welcome to my Passion Projects on Physical design and STA
-- I am an electrical engineer, grad fom Purdue. 
+- I am an electrical engineer, grad fom Purdue, ex-Intel employee.
 - You can reach me on my LinkedIn - https://www.linkedin.com/in/isha-gupta-07320b143
 
 <!---
